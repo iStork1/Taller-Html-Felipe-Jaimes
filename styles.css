@@ -1,0 +1,34 @@
+/* Estilos personalizados */
+
+/* Cambiar el color del texto del encabezado */
+h1, h2, h3 {
+    color: #333;
+}
+
+/* Cambiar el color del texto del cuerpo */
+p {
+    color: #666;
+}
+
+/* Estilo para la sección de características */
+.info {
+    padding: 50px 0;
+}
+
+/* Estilo para el formulario de suscripción */
+#subscribe {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+    text-align: center;
+}
+
+/* Estilo para el botón de suscripción */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
